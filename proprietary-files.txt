@@ -126,7 +126,9 @@ vendor/lib/librpmb.so
 vendor/lib/libssd.so
 vendor/lib/libwvdrm_L3.so
 vendor/lib/libwvm.so
+vendor/lib/libWVphoneAPI.so
 vendor/lib/libWVStreamControlAPI_L3.so
+vendor/lib/mediadrm/libwvdrmengine.so
 
 # GPS
 bin/gsiff_daemon
@@ -150,6 +152,7 @@ vendor/lib/libadreno_utils.so
 vendor/lib/libbccQTI.so
 vendor/lib/libC2D2.so
 vendor/lib/libc2d30-a3xx.so
+vendor/lib/libc2d30.so
 vendor/lib/libCB.so
 vendor/lib/libgsl.so
 vendor/lib/libllvm-qcom.so
