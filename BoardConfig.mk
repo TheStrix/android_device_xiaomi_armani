@@ -118,6 +118,9 @@ TARGET_POWERHAL_VARIANT := qcom
 # QCOM hardware
 BOARD_USES_QCOM_HARDWARE := true
 
+# Radio
+TARGET_RIL_VARIANT := caf
+
 # Recovery
 TARGET_RECOVERY_FSTAB := device/xiaomi/armani/rootdir/etc/fstab.armani
 TARGET_RECOVERY_PIXEL_FORMAT := "RGBX_8888"
